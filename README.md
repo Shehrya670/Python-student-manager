@@ -1,7 +1,7 @@
 # Student Management System
 This is a console-based student management system built with Python. The application is designed to handle student and administrator accounts, manage course enrollment, and track grades. All user and academic data are stored securely in local text files.
 
-Features
+# Features
 User Authentication: Separate login sections for administrators and students.
 
 Student Registration: Allows new students to register with a unique ID, ensuring strong password validation.
@@ -14,7 +14,7 @@ Academic Reports: Students can view their grades and generate a detailed report 
 
 Data Persistence: All user accounts, course data, and grades are saved in text files, ensuring data is not lost when the program closes.
 
-Prerequisites
+# Prerequisites
 To run this project, you need to have Python 3.x installed on your system. No external libraries are required.
 
 How to Run
@@ -28,7 +28,7 @@ python main.py
 
 The program will automatically create the necessary data files (admin.txt, students.txt, marks.txt) and a report_cards directory upon its first run.
 
-File Structure
+# File Structure
 The project creates and uses the following files and directories to manage its data:
 
 admin.txt: Stores administrator credentials.
