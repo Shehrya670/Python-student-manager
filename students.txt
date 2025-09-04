@@ -1,0 +1,3 @@
+qwaefdsxg,123456,14233,dsfzgf,1243546,
+SP23,Ahmad,CS,1,Ahmad@123,CSC101
+1122,Mohsin Ahmed,CS,6,Pakistan@1,CS101;CS102
